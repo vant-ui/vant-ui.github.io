@@ -1,0 +1,1 @@
+import{r as n}from"./use-translate.c7ada534.js";import{o as u}from"./on-popup-reopen.550cf80c.js";import{x as a,N as m,q as s}from"./vue-libs.34a885a4.js";const c=(r,i)=>{const o=a(),e=()=>{o.value=n(r).height};return m(()=>{if(s(e),i)for(let t=1;t<=3;t++)setTimeout(e,100*t)}),u(()=>s(e)),o};export{c as u};
