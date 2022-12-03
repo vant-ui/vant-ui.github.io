@@ -1,0 +1,1 @@
+import{t as r,v as p}from"./use-translate.a029ce72.js";function e(t,{args:l=[],done:i,canceled:s}){if(t){const f=t.apply(null,l);r(f)?f.then(o=>{o?i():s&&s()}).catch(p):f?i():s&&s()}else i()}export{e as c};
