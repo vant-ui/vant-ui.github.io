@@ -1,11 +1,8 @@
-import{o as n,a as t,z as o}from"./vue-libs-12a1683e.js";const a={class:"van-doc-markdown-body"},i=o(`<h1>Contribution Guide</h1><div class="van-doc-card"><h3 id="introduction" tabindex="-1">Introduction</h3><p>Thank you for using Vant.</p><p>Below are the guidelines for submitting feedback or code to Vant. Please take a few minutes to read the following before submitting an issue or PR to Vant.</p></div><div class="van-doc-card"><h3 id="issue-specification" tabindex="-1">Issue Specification</h3><ul><li>If you encountered a problem, please first confirm whether the problem has been recorded in the issue or has been fixed.</li><li>When submitting an issue, please describe the problem you encountered in a short language, and add the environment and reproduction steps when the problem occurs.</li></ul></div><h2 id="participate-in-development" tabindex="-1">Participate in development</h2><div class="van-doc-card"><h3 id="local-development" tabindex="-1">Local development</h3><p>Before developing locally, please make sure that <a href="https://nodejs.org" target="_blank">Node.js &gt;= 14.19.0</a> is installed in your development environment.</p><p>Follow the steps below to develop Vant components locally.</p><pre><code class="language-bash"><span class="hljs-comment"># Clone repository</span>
+import{o as t,a as n,z as o}from"./vue-libs-12a1683e.js";const i={class:"van-doc-markdown-body"},a=o(`<h1>Contribution Guide</h1><div class="van-doc-card"><h3 id="introduction" tabindex="-1">Introduction</h3><p>Thank you for using Vant.</p><p>Below are the guidelines for submitting feedback or code to Vant. Please take a few minutes to read the following before submitting an issue or PR to Vant.</p></div><div class="van-doc-card"><h3 id="issue-specification" tabindex="-1">Issue Specification</h3><ul><li>If you encountered a problem, please first confirm whether the problem has been recorded in the issue or has been fixed.</li><li>When submitting an issue, please describe the problem you encountered in a short language, and add the environment and reproduction steps when the problem occurs.</li></ul></div><h2 id="participate-in-development" tabindex="-1">Participate in development</h2><div class="van-doc-card"><h3 id="local-development" tabindex="-1">Local development</h3><p>Before developing locally, please make sure that <a href="https://nodejs.org" target="_blank">Node.js &gt;= 14.19.0</a> is installed in your development environment.</p><p>Follow the steps below to develop Vant components locally.</p><pre><code class="language-bash"><span class="hljs-comment"># Clone repository</span>
 git <span class="hljs-built_in">clone</span> git@github.com:vant-ui/vant.git
 
 <span class="hljs-comment"># Enable pnpm package manager</span>
 corepack <span class="hljs-built_in">enable</span>
-
-<span class="hljs-comment"># If you can&#39;t use corepack, you can also install pnpm manually</span>
-npm install -g pnpm@7
 
 <span class="hljs-comment"># Install dependencies</span>
 pnpm i
@@ -45,4 +42,4 @@ git checkout main
 
 <span class="hljs-comment"># Merge the code from the main repository</span>
 git merge upstream/main
-</code></pre></div>`,13),s=[i],h={__name:"contribution.en-US",setup(r,{expose:e}){return e({frontmatter:{}}),(l,d)=>(n(),t("div",a,s))}};export{h as default};
+</code></pre></div>`,13),s=[a],h={__name:"contribution.en-US",setup(r,{expose:e}){return e({frontmatter:{}}),(l,d)=>(t(),n("div",i,s))}};export{h as default};

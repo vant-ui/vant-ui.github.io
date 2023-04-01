@@ -3,7 +3,7 @@ import{o as t,a,z as n}from"./vue-libs-12a1683e.js";const e={class:"van-doc-mark
 
 <span class="hljs-keyword">const</span> app = <span class="hljs-title function_">createApp</span>();
 app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_">Popup</span>);
-</code></pre></div><h2 id="usage" tabindex="-1">Usage</h2><div class="van-doc-card"><h3 id="basic-usage" tabindex="-1">Basic Usage</h3><pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">van-cell</span> <span class="hljs-attr">is-link</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">&quot;showPopup&quot;</span>&gt;</span>Show Popup<span class="hljs-tag">&lt;/<span class="hljs-name">van-cell</span>&gt;</span>
+</code></pre></div><h2 id="usage" tabindex="-1">Usage</h2><div class="van-doc-card"><h3 id="basic-usage" tabindex="-1">Basic Usage</h3><pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">van-cell</span> <span class="hljs-attr">title</span>=<span class="hljs-string">&quot;Show Popup&quot;</span> <span class="hljs-attr">is-link</span> @<span class="hljs-attr">click</span>=<span class="hljs-string">&quot;showPopup&quot;</span> /&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">van-popup</span> <span class="hljs-attr">v-model:show</span>=<span class="hljs-string">&quot;show&quot;</span> <span class="hljs-attr">:style</span>=<span class="hljs-string">&quot;{ padding: &#39;64px&#39; }&quot;</span>&gt;</span>Content<span class="hljs-tag">&lt;/<span class="hljs-name">van-popup</span>&gt;</span>
 </code></pre><pre><code class="language-js"><span class="hljs-keyword">import</span> { ref } <span class="hljs-keyword">from</span> <span class="hljs-string">&#39;vue&#39;</span>;
 

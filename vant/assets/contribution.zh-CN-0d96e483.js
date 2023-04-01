@@ -1,11 +1,8 @@
-import{o as a,a as e,z as i}from"./vue-libs-12a1683e.js";const s={class:"van-doc-markdown-body"},t=i(`<h1>贡献指南</h1><div class="van-doc-card"><h3 id="jie-shao" tabindex="-1">介绍</h3><p>感谢你使用 Vant。</p><p>以下是关于向 Vant 提交反馈或代码的指南。在向 Vant 提交 issue 或者 PR 之前，请先花几分钟时间阅读以下内容。</p></div><div class="van-doc-card"><h3 id="issue-gui-fan" tabindex="-1">Issue 规范</h3><ul><li>遇到问题时，请先确认这个问题是否已经在 issue 中有记录或者已被修复。</li><li>提 issue 时，请用简短的语言描述遇到的问题，并添加出现问题时的环境和复现步骤。</li></ul></div><h2 id="can-yu-kai-fa" tabindex="-1">参与开发</h2><div class="van-doc-card"><h3 id="ben-di-kai-fa" tabindex="-1">本地开发</h3><p>在进行本地开发前，请先确保你的开发环境中安装了 <a href="https://nodejs.org" target="_blank">Node.js &gt;= 14.19.0</a>。</p><p>按照下面的步骤操作，即可在本地开发 Vant 组件。</p><pre><code class="language-bash"><span class="hljs-comment"># 克隆仓库</span>
+import{o as a,a as e,z as i}from"./vue-libs-12a1683e.js";const t={class:"van-doc-markdown-body"},s=i(`<h1>贡献指南</h1><div class="van-doc-card"><h3 id="jie-shao" tabindex="-1">介绍</h3><p>感谢你使用 Vant。</p><p>以下是关于向 Vant 提交反馈或代码的指南。在向 Vant 提交 issue 或者 PR 之前，请先花几分钟时间阅读以下内容。</p></div><div class="van-doc-card"><h3 id="issue-gui-fan" tabindex="-1">Issue 规范</h3><ul><li>遇到问题时，请先确认这个问题是否已经在 issue 中有记录或者已被修复。</li><li>提 issue 时，请用简短的语言描述遇到的问题，并添加出现问题时的环境和复现步骤。</li></ul></div><h2 id="can-yu-kai-fa" tabindex="-1">参与开发</h2><div class="van-doc-card"><h3 id="ben-di-kai-fa" tabindex="-1">本地开发</h3><p>在进行本地开发前，请先确保你的开发环境中安装了 <a href="https://nodejs.org" target="_blank">Node.js &gt;= 14.19.0</a>。</p><p>按照下面的步骤操作，即可在本地开发 Vant 组件。</p><pre><code class="language-bash"><span class="hljs-comment"># 克隆仓库</span>
 git <span class="hljs-built_in">clone</span> git@github.com:vant-ui/vant.git
 
 <span class="hljs-comment"># 启用 pnpm 包管理器</span>
 corepack <span class="hljs-built_in">enable</span>
-
-<span class="hljs-comment"># 如果无法使用 corepack，你也可以手动安装 pnpm</span>
-npm install -g pnpm@7
 
 <span class="hljs-comment"># 安装依赖</span>
 pnpm i
@@ -45,4 +42,4 @@ git checkout main
 
 <span class="hljs-comment"># 合并主仓库代码</span>
 git merge upstream/main
-</code></pre></div>`,13),l=[t],r={__name:"contribution.zh-CN",setup(c,{expose:n}){return n({frontmatter:{}}),(d,p)=>(a(),e("div",s,l))}};export{r as default};
+</code></pre></div>`,13),l=[s],r={__name:"contribution.zh-CN",setup(c,{expose:n}){return n({frontmatter:{}}),(d,p)=>(a(),e("div",t,l))}};export{r as default};
