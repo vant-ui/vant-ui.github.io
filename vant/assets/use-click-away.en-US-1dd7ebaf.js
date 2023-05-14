@@ -35,7 +35,10 @@ import{o as a,a as n,z as t}from"./vue-libs-12a1683e.js";const e={class:"van-doc
 };
 
 <span class="hljs-keyword">function</span> <span class="hljs-title function_">useClickAway</span>(<span class="hljs-params">
-  target: Element | Ref&lt;Element | <span class="hljs-literal">undefined</span>&gt;,
+  target:
+    | Element
+    | Ref&lt;Element | <span class="hljs-literal">undefined</span>&gt;
+    | <span class="hljs-built_in">Array</span>&lt;Element | Ref&lt;Element | <span class="hljs-literal">undefined</span>&gt;&gt;,
   listener: EventListener,
   options?: Options
 </span>): <span class="hljs-built_in">void</span>;
