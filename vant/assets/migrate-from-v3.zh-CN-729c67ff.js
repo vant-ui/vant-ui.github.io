@@ -73,7 +73,7 @@ pnpm add vant@^4 @vant/compat@^1
 
 <span class="hljs-title class_">Notify</span>();
 <span class="hljs-title class_">Notify</span>.<span class="hljs-title function_">clear</span>();
-</code></pre><p><code>@vant/compat</code> 中导出的 <code>Notify</code> 与 Vant 3 中的 <code>Notify</code> 拥有完全一致的 API 和行为，因此你只需要修改 <code>Notify</code> 的引用路径，其他代码可以保持不变。</p></div><div class="van-doc-card"><h3 id="imagepreview-diao-yong-fang-shi-diao-zheng" tabindex="-1">ImagePreview 调用方式调整</h3><p>Vant 4 中，<code>ImagePreview</code> 组件的调用方式也进行了调整，与 <code>ImagePreview</code> 组件的改动一致：</p><pre><code class="language-js"><span class="hljs-comment">// Vant 3</span>
+</code></pre><p><code>@vant/compat</code> 中导出的 <code>Notify</code> 与 Vant 3 中的 <code>Notify</code> 拥有完全一致的 API 和行为，因此你只需要修改 <code>Notify</code> 的引用路径，其他代码可以保持不变。</p></div><div class="van-doc-card"><h3 id="imagepreview-diao-yong-fang-shi-diao-zheng" tabindex="-1">ImagePreview 调用方式调整</h3><p>Vant 4 中，<code>ImagePreview</code> 组件的调用方式也进行了调整，与 <code>Dialog</code> 组件的改动一致：</p><pre><code class="language-js"><span class="hljs-comment">// Vant 3</span>
 <span class="hljs-title class_">ImagePreview</span>(); <span class="hljs-comment">// 函数调用</span>
 <span class="hljs-title class_">ImagePreview</span>.<span class="hljs-property">Component</span>; <span class="hljs-comment">// 组件对象</span>
 

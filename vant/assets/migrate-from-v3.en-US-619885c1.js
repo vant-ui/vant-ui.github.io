@@ -73,7 +73,7 @@ pnpm add vant@^4 @vant/compat@^1
 
 <span class="hljs-title class_">Notify</span>();
 <span class="hljs-title class_">Notify</span>.<span class="hljs-title function_">clear</span>();
-</code></pre><p><code>Notify</code> exported in <code>@vant/compat</code> has exactly the same API and behavior as <code>Notify</code> in Vant 3, so you only need to modify the reference path of <code>Notify</code>, and other codes can remain unchanged.</p></div><div class="van-doc-card"><h3 id="imagepreview-calling-method-adjustment" tabindex="-1">ImagePreview calling method adjustment</h3><p>In Vant 4, the calling method of the <code>ImagePreview</code> component has also been adjusted, which is consistent with the changes of the <code>ImagePreview</code> component:</p><pre><code class="language-js"><span class="hljs-comment">// Vant 3</span>
+</code></pre><p><code>Notify</code> exported in <code>@vant/compat</code> has exactly the same API and behavior as <code>Notify</code> in Vant 3, so you only need to modify the reference path of <code>Notify</code>, and other codes can remain unchanged.</p></div><div class="van-doc-card"><h3 id="imagepreview-calling-method-adjustment" tabindex="-1">ImagePreview calling method adjustment</h3><p>In Vant 4, the calling method of the <code>ImagePreview</code> component has also been adjusted, which is consistent with the changes of the <code>Dialog</code> component:</p><pre><code class="language-js"><span class="hljs-comment">// Vant 3</span>
 <span class="hljs-title class_">ImagePreview</span>(); <span class="hljs-comment">// function call</span>
 <span class="hljs-title class_">ImagePreview</span>.<span class="hljs-property">Component</span>; <span class="hljs-comment">// component object</span>
 
