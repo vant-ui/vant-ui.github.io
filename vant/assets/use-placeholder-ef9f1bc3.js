@@ -1,1 +1,0 @@
-import{u}from"./use-height-09bece1c.js";import{e as a}from"./vue-libs-57cd1a95.js";function l(t,r){const e=u(t,!0);return o=>a("div",{class:r("placeholder"),style:{height:e.value?`${e.value}px`:void 0}},[o()])}export{l as u};

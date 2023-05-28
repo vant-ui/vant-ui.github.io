@@ -1,0 +1,1 @@
+import{o,a as s,d as e,g as a}from"./vue-libs-6a67f9c6.js";const n={class:"van-doc-markdown-body"},r=e("h1",null,"SkeletonParagraph",-1),c=e("p",null,[a("Please refer to "),e("a",{href:"/skeleton#skeletontitle-props",target:"_blank"},"Skeleton docs")],-1),_=[r,c],k={__name:"README",setup(l,{expose:t}){return t({frontmatter:{}}),(p,h)=>(o(),s("div",n,_))}};export{k as default};
