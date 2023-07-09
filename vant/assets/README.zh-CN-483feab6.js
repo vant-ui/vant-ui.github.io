@@ -24,16 +24,18 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> <span class="hljs-title function_">onOffsetChange</span> = (<span class="hljs-params">offset: OffsetType</span>) =&gt; {
-      <span class="hljs-title function_">showToast</span>(offset.<span class="hljs-property">x</span> + <span class="hljs-string">&#39;__&#39;</span> + offset.<span class="hljs-property">y</span>);
+    <span class="hljs-keyword">const</span> <span class="hljs-title function_">onOffsetChange</span> = (<span class="hljs-params">offset</span>) =&gt; {
+      <span class="hljs-title function_">showToast</span>(<span class="hljs-string">\`x: <span class="hljs-subst">\${offset.x.toFixed(<span class="hljs-number">0</span>)}</span>, y: <span class="hljs-subst">\${offset.y.toFixed(<span class="hljs-number">0</span>)}</span>\`</span>);
     };
     <span class="hljs-keyword">return</span> { onOffsetChange };
   },
 };
-</code></pre></div><div class="van-doc-card"><h3 id="shi-yong-v-model" tabindex="-1">使用 v-model</h3><p>使用 <code>v-model:offset</code> 控制位置。</p><pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">van-floating-bubble</span> <span class="hljs-attr">v-model:offset</span>=<span class="hljs-string">&quot;offset&quot;</span> <span class="hljs-attr">axis</span>=<span class="hljs-string">&quot;xy&quot;</span> <span class="hljs-attr">icon</span>=<span class="hljs-string">&quot;chat&quot;</span> /&gt;</span>
-</code></pre><pre><code class="language-js"><span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
+</code></pre></div><div class="van-doc-card"><h3 id="shuang-xiang-bang-ding" tabindex="-1">双向绑定</h3><p>使用 <code>v-model:offset</code> 控制 FloatingBubble 的位置。</p><pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">van-floating-bubble</span> <span class="hljs-attr">v-model:offset</span>=<span class="hljs-string">&quot;offset&quot;</span> <span class="hljs-attr">axis</span>=<span class="hljs-string">&quot;xy&quot;</span> <span class="hljs-attr">icon</span>=<span class="hljs-string">&quot;chat&quot;</span> /&gt;</span>
+</code></pre><pre><code class="language-js"><span class="hljs-keyword">import</span> { ref } <span class="hljs-keyword">from</span> <span class="hljs-string">&#39;vue&#39;</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> offset = ref &lt; <span class="hljs-title class_">OffsetType</span> &gt; { <span class="hljs-attr">x</span>: <span class="hljs-number">200</span>, <span class="hljs-attr">y</span>: <span class="hljs-number">400</span> };
+    <span class="hljs-keyword">const</span> offset = <span class="hljs-title function_">ref</span>({ <span class="hljs-attr">x</span>: <span class="hljs-number">200</span>, <span class="hljs-attr">y</span>: <span class="hljs-number">400</span> });
     <span class="hljs-keyword">return</span> { offset };
   },
 };
@@ -43,4 +45,4 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
   <span class="hljs-title class_">FloatingBubbleMagnetic</span>,
   <span class="hljs-title class_">FloatingBubbleOffset</span>,
 } <span class="hljs-keyword">from</span> <span class="hljs-string">&#39;vant&#39;</span>;
-</code></pre></div><h2 id="zhu-ti-ding-zhi" tabindex="-1">主题定制</h2><div class="van-doc-card"><h3 id="yang-shi-bian-liang" tabindex="-1">样式变量</h3><p>组件提供了下列 CSS 变量，可用于自定义样式，使用方法请参考 <a href="#/zh-CN/config-provider" target="_blank">ConfigProvider 组件</a>。</p><table><thead><tr><th>名称</th><th>默认值</th><th>描述</th></tr></thead><tbody><tr><td>--van-floating-bubble-size</td><td><em>48px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-initial-gap</td><td><em>24px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-icon-size</td><td><em>28px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-background</td><td><em>var(--van-primary-color)</em></td><td>-</td></tr><tr><td>--van-floating-bubble-color</td><td><em>var(--van-background-2)</em></td><td>-</td></tr><tr><td>--van-floating-bubble-z-index</td><td><em>999</em></td><td>-</td></tr></tbody></table></div>`,14),d=[e],i={__name:"README.zh-CN",setup(p,{expose:s}){return s({frontmatter:{}}),(c,r)=>(a(),t("div",l,d))}};export{i as default};
+</code></pre></div><h2 id="zhu-ti-ding-zhi" tabindex="-1">主题定制</h2><div class="van-doc-card"><h3 id="yang-shi-bian-liang" tabindex="-1">样式变量</h3><p>组件提供了下列 CSS 变量，可用于自定义样式，使用方法请参考 <a href="#/zh-CN/config-provider" target="_blank">ConfigProvider 组件</a>。</p><table><thead><tr><th>名称</th><th>默认值</th><th>描述</th></tr></thead><tbody><tr><td>--van-floating-bubble-size</td><td><em>48px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-initial-gap</td><td><em>24px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-icon-size</td><td><em>28px</em></td><td>-</td></tr><tr><td>--van-floating-bubble-background</td><td><em>var(--van-primary-color)</em></td><td>-</td></tr><tr><td>--van-floating-bubble-color</td><td><em>var(--van-background-2)</em></td><td>-</td></tr><tr><td>--van-floating-bubble-z-index</td><td><em>999</em></td><td>-</td></tr><tr><td>--van-floating-bubble-border-radius</td><td><em>--van-floating-bubble-border-radius</em></td><td>-</td></tr></tbody></table></div>`,14),d=[e],i={__name:"README.zh-CN",setup(p,{expose:s}){return s({frontmatter:{}}),(c,r)=>(a(),t("div",l,d))}};export{i as default};
