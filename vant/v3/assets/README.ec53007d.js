@@ -34,7 +34,7 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());
+    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>));
 
     <span class="hljs-keyword">const</span> <span class="hljs-title function_">formatter</span> = (<span class="hljs-params">type, val</span>) =&gt; {
       <span class="hljs-keyword">if</span> (type === <span class="hljs-string">&#39;year&#39;</span>) {
@@ -66,7 +66,7 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());
+    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>));
 
     <span class="hljs-keyword">const</span> <span class="hljs-title function_">formatter</span> = (<span class="hljs-params">type, val</span>) =&gt; {
       <span class="hljs-keyword">if</span> (type === <span class="hljs-string">&#39;month&#39;</span>) {
@@ -112,7 +112,7 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());
+    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>));
     <span class="hljs-keyword">return</span> {
       <span class="hljs-attr">minDate</span>: <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>),
       <span class="hljs-attr">maxDate</span>: <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2025</span>, <span class="hljs-number">10</span>, <span class="hljs-number">1</span>),
@@ -131,7 +131,7 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());
+    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>));
     <span class="hljs-keyword">return</span> {
       <span class="hljs-attr">minDate</span>: <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>),
       <span class="hljs-attr">maxDate</span>: <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2025</span>, <span class="hljs-number">10</span>, <span class="hljs-number">1</span>),
@@ -175,7 +175,7 @@ app.<span class="hljs-title function_">use</span>(<span class="hljs-title class_
 
 <span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> {
   <span class="hljs-title function_">setup</span>(<span class="hljs-params"></span>) {
-    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>());
+    <span class="hljs-keyword">const</span> currentDate = <span class="hljs-title function_">ref</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2020</span>, <span class="hljs-number">0</span>, <span class="hljs-number">1</span>));
 
     <span class="hljs-keyword">const</span> <span class="hljs-title function_">formatter</span> = (<span class="hljs-params">type, val</span>) =&gt; {
       <span class="hljs-keyword">if</span> (type === <span class="hljs-string">&#39;year&#39;</span>) {
