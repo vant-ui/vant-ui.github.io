@@ -1,7 +1,0 @@
-/*! vue */
-
-/*! ./README.md.js?vue&type=template&id=98c8cd46!=!../../../../node_modules/.pnpm/vue-loader@17.3.1_vue@3.3.4_webpack@5.89.0/node_modules/vue-loader/dist/index.js??clonedRuleSet-32.use[0]!../../../vant-cli/cjs/md-loader.cjs!./README.md?vue&type=template&id=98c8cd46 */
-
-/*! ../../../../node_modules/.pnpm/vue-loader@17.3.1_vue@3.3.4_webpack@5.89.0/node_modules/vue-loader/dist/exportHelper.js */
-
-/*! ./README.md.js?vue&type=template&id=98c8cd46!=!-!../../../../node_modules/.pnpm/vue-loader@17.3.1_vue@3.3.4_webpack@5.89.0/node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[14].use[0]!../../../../node_modules/.pnpm/vue-loader@17.3.1_vue@3.3.4_webpack@5.89.0/node_modules/vue-loader/dist/index.js??clonedRuleSet-32.use[0]!../../../vant-cli/cjs/md-loader.cjs!./README.md?vue&type=template&id=98c8cd46 */
