@@ -1,0 +1,53 @@
+/*! vue */
+
+/*! ./vue-lazyload */
+
+/*! ./util */
+
+/*! vue */
+
+/*! @vant/use */
+
+/*! @vant/use */
+
+/*! vue */
+
+/*! ./index.vue.ts?vue&type=script&setup=true&lang=ts!=!-!builtin:swc-loader??clonedRuleSet-28.use[0]!../../../../../node_modules/.pnpm/vue-loader@17.4.0_vue@3.4.0-rc.1_webpack@5.89.0/node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=script&setup=true&lang=ts */
+
+/*! ./index.vue.less?vue&type=style&index=0&id=0a2184f9&lang=less!=!../../../../../node_modules/.pnpm/vue-loader@17.4.0_vue@3.4.0-rc.1_webpack@5.89.0/node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=style&index=0&id=0a2184f9&lang=less */
+
+/*! ./lazy-component */
+
+/*! @vant/use */
+
+/*! @vant/use */
+
+/*! ./util */
+
+/*! ./util */
+
+/*! ../../utils */
+
+/*! ../../utils */
+
+/*! ./index.vue.ts?vue&type=script&setup=true&lang=ts!=!../../../../../node_modules/.pnpm/vue-loader@17.4.0_vue@3.4.0-rc.1_webpack@5.89.0/node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=script&setup=true&lang=ts */
+
+/*! .. */
+
+/*! ./lazy-container */
+
+/*! ./lazy-image */
+
+/*! @vant/use */
+
+/*! ./util */
+
+/*! ../../utils */
+
+/*! ../../../docs/site */
+
+/*! ./listener */
+
+/*! vue */
+
+/*! ./lazy */
