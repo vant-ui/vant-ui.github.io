@@ -1,2 +1,0 @@
-/*! For license information please see 9419.53a5bd6e.js.LICENSE.txt */
-(self.webpackChunk=self.webpackChunk||[]).push([["9419"],{40294:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return l}});var a=t("36840");let r=["innerHTML"];var l={setup:()=>({html:""}),render:()=>((0,a.openBlock)(),(0,a.createElementBlock)("div",{class:"van-doc-markdown-body",innerHTML:'<h1>SkeletonAvatar</h1>\n<p>Please refer to <a href="/skeleton#skeletonavatar-props" target="_blank">Skeleton docs</a></p>\n'},null,8,r))}}}]);
