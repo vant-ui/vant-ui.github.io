@@ -1,0 +1,423 @@
+/*! /home/runner/work/vant/vant/packages/vant/src/divider/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tag/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/search/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/dialog/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tree-select/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/checkbox/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/card/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/locale/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/design.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/faq.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/faq.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/advanced-usage.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/contribution.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-list/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/highlight/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/image/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/popup/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/stepper/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/time-picker/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/area/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-toggle.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/back-top/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/lazyload/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/locale/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/address-list/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/overlay/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/cascader/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/pull-refresh/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/rate/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/progress/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/action-bar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/badge/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/signature/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/release-note-v4.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/space/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/radio/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/share-sheet/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/search/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/style/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/migrate-from-v2.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/circle/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/notice-bar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/switch/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/home.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-rect.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/action-sheet/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/password-input/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tabbar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/text-ellipsis/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/submit-bar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/notice-bar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-click-away.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton-image/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-relation.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/empty/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton-avatar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-card/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/date-picker/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/pull-refresh/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/field/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/coupon-list/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-custom-field-value.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/loading/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/count-down/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/rate/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/image-preview/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/watermark/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/picker-group/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/time-picker/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/card/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/date-picker/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/stepper/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-page-visibility.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-relation.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/divider/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/sidebar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/area/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/list/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/nav-bar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/icon/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/home.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/form/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-scroll-parent.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/picker/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/calendar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/password-input/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/pagination/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/sticky/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/progress/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/slider/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/steps/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/checkbox/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/toast/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/rolling-text/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/address-edit/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/highlight/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/badge/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/collapse/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-rect.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/popover/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/image/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/index-bar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/icon/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/floating-bubble/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/uploader/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/overlay/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/sidebar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/notify/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/share-sheet/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-toggle.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/submit-bar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/button/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-count-down.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/design.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/picker-group/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/barrage/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/contribution.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/slider/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-event-listener.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/number-keyboard/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/config-provider/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-list/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-click-away.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/config-provider/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/calendar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/dialog/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/migrate-from-v3.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/swipe/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tree-select/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/toast/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/action-bar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/switch/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/steps/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/swipe/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/changelog.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/dropdown-menu/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tabbar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/changelog.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/circle/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/number-keyboard/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/advanced-usage.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/grid/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/picker/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-window-size.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/sticky/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/uploader/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton-title/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton-paragraph/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/popover/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-card/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/signature/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/rolling-text/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/form/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/vant-use-intro.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/quickstart.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/barrage/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/action-sheet/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/watermark/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/address-edit/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/image-preview/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/migrate-from-v3.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/grid/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-page-visibility.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/button/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/skeleton/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/vant-use-intro.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/coupon-list/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/dropdown-menu/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/field/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/cell/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/floating-bubble/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/floating-panel/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/loading/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/radio/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/back-top/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/col/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/col/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/index-bar/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/popup/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/text-ellipsis/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-event-listener.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-count-down.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-raf.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-window-size.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-edit/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/pagination/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-custom-field-value.en-US.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/swipe-cell/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tab/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/quickstart.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tag/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/cascader/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/contact-edit/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/count-down/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/notify/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-scroll-parent.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/address-list/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/cell/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/release-note-v4.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/collapse/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/floating-panel/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/lazyload/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/use-raf.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/empty/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/list/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/nav-bar/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/space/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/swipe-cell/README.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/style/README.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/docs/markdown/migrate-from-v2.zh-CN.md */
+
+/*! /home/runner/work/vant/vant/packages/vant/src/tab/README.md */
