@@ -76,11 +76,11 @@
 
 /*! core-js/modules/es.array.iterator.js */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
-
 /*! vue */
 
 /*! core-js/modules/esnext.iterator.for-each.js */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../utils */
 

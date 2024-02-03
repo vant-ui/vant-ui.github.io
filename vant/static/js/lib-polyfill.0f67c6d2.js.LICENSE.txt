@@ -184,9 +184,9 @@
 
 /*! ../internals/a-callable */
 
-/*! ../internals/internal-state */
-
 /*! ../internals/iterator-define */
+
+/*! ../internals/internal-state */
 
 /*! ../internals/fails */
 
@@ -506,9 +506,9 @@
 
 /*! ../internals/an-instance */
 
-/*! ../internals/create-property-descriptor */
-
 /*! ./_define_property.js */
+
+/*! ../internals/create-property-descriptor */
 
 /*! ../internals/function-call */
 
@@ -1556,17 +1556,17 @@
 
 /*! ../internals/promise-constructor-detection */
 
-/*! ../internals/string-trim-forced */
-
-/*! ../internals/add-to-unscopables */
+/*! ../internals/a-map */
 
 /*! ../internals/an-object */
 
-/*! ../internals/set-to-string-tag */
+/*! ../internals/add-to-unscopables */
 
 /*! ../internals/is-pure */
 
-/*! ../internals/a-map */
+/*! ../internals/set-to-string-tag */
+
+/*! ../internals/string-trim-forced */
 
 /*! ../internals/descriptors */
 
@@ -1578,9 +1578,9 @@
 
 /*! ../internals/function-uncurry-this */
 
-/*! ../modules/web.url.constructor */
-
 /*! ../internals/make-built-in */
+
+/*! ../modules/web.url.constructor */
 
 /*! ../internals/object-create */
 

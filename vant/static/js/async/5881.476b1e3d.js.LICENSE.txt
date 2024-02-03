@@ -2,13 +2,13 @@
 
 /*! ../utils */
 
-/*! core-js/modules/esnext.iterator.for-each.js */
-
 /*! vue */
 
 /*! core-js/modules/es.array.iterator.js */
 
 /*! core-js/modules/web.dom-collections.iterator.js */
+
+/*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! core-js/modules/es.array.iterator.js */
 

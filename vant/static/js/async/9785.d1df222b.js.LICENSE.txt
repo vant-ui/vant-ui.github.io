@@ -34,9 +34,9 @@
 
 /*! vue */
 
-/*! ../utils */
-
 /*! core-js/modules/es.regexp.exec.js */
+
+/*! ../utils */
 
 /*! core-js/modules/web.dom-collections.iterator.js */
 

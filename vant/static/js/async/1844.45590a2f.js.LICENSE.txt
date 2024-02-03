@@ -16,6 +16,8 @@
 
 /*! core-js/modules/web.dom-collections.iterator.js */
 
+/*! core-js/modules/es.array.reverse.js */
+
 /*! core-js/modules/esnext.iterator.constructor.js */
 
 /*! core-js/modules/esnext.async-iterator.for-each.js */
@@ -223,8 +225,6 @@
 /*! ../../rate */
 
 /*! core-js/modules/esnext.async-iterator.some.js */
-
-/*! core-js/modules/es.array.reverse.js */
 
 /*! core-js/modules/es.symbol.description.js */
 

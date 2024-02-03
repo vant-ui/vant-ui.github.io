@@ -148,9 +148,9 @@
 
 /*! core-js/modules/es.regexp.exec.js */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
-
 /*! ../checkbox/Checker */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../icon */
 

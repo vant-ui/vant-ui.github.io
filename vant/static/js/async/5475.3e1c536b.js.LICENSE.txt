@@ -78,11 +78,11 @@
 
 /*! core-js/modules/esnext.iterator.map.js */
 
-/*! @vant/use */
-
 /*! ./Cell */
 
 /*! vue */
+
+/*! @vant/use */
 
 /*! core-js/modules/es.regexp.exec.js */
 

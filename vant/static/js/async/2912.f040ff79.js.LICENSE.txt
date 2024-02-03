@@ -4,6 +4,8 @@
 
 /*! ../../../docs/site */
 
+/*! @vant/use */
+
 /*! ../composables/use-route */
 
 /*! core-js/modules/es.string.replace.js */
@@ -24,13 +26,13 @@
 
 /*! core-js/modules/es.symbol.description.js */
 
-/*! core-js/modules/es.array.iterator.js */
-
-/*! core-js/modules/web.dom-collections.iterator.js */
+/*! vue */
 
 /*! ../loading */
 
-/*! vue */
+/*! core-js/modules/es.array.iterator.js */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../utils */
 
@@ -76,11 +78,11 @@
 
 /*! core-js/modules/web.dom-collections.iterator.js */
 
-/*! core-js/modules/es.array.includes.js */
+/*! ../utils */
 
 /*! ../icon */
 
-/*! ../utils */
+/*! core-js/modules/es.array.includes.js */
 
 /*! .. */
 
@@ -102,15 +104,13 @@
 
 /*! vue */
 
-/*! @vant/use */
+/*! ../composables/use-lazy-render */
 
 /*! ../utils */
 
 /*! ../badge */
 
 /*! vue */
-
-/*! ../composables/use-lazy-render */
 
 /*! vue */
 

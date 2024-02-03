@@ -1,5 +1,7 @@
 /*! core-js/modules/esnext.iterator.constructor.js */
 
+/*! @vant/use */
+
 /*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! core-js/modules/esnext.async-iterator.map.js */
@@ -38,9 +40,9 @@
 
 /*! ./index.vue.less?vue&type=style&index=0&id=53b54e14&lang=less!=!../../../../../node_modules/.pnpm/vue-loader@17.4.2_vue@3.4.13_webpack@5.89.0/node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./index.vue?vue&type=style&index=0&id=53b54e14&lang=less */
 
-/*! core-js/modules/es.string.split.js */
-
 /*! ./Button */
+
+/*! core-js/modules/es.string.split.js */
 
 /*! ./Sticky */
 
@@ -102,13 +104,13 @@
 
 /*! core-js/modules/es.symbol.description.js */
 
-/*! core-js/modules/es.array.iterator.js */
+/*! vue */
 
 /*! ../loading */
 
 /*! core-js/modules/web.dom-collections.iterator.js */
 
-/*! vue */
+/*! core-js/modules/es.array.iterator.js */
 
 /*! ../utils */
 
@@ -131,5 +133,3 @@
 /*! vue */
 
 /*! ../utils */
-
-/*! @vant/use */

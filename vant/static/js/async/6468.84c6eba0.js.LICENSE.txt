@@ -84,6 +84,8 @@
 
 /*! ./Badge */
 
+/*! core-js/modules/es.string.replace.js */
+
 /*! ../utils */
 
 /*! core-js/modules/es.array.iterator.js */
@@ -91,8 +93,6 @@
 /*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../utils */
-
-/*! core-js/modules/es.string.replace.js */
 
 /*! core-js/modules/esnext.iterator.map.js */
 

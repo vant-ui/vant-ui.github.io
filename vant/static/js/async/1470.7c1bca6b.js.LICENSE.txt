@@ -32,9 +32,9 @@
 
 /*! ./Skeleton */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
-
 /*! core-js/modules/es.array.iterator.js */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../skeleton-title */
 

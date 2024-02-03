@@ -92,13 +92,13 @@
 
 /*! core-js/modules/es.array.iterator.js */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
-
 /*! ../icon */
 
 /*! ./Badge */
 
 /*! ./Cell */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../../../docs/site */
 

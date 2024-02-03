@@ -1,12 +1,12 @@
-/*! core-js/modules/esnext.iterator.for-each.js */
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! core-js/modules/esnext.iterator.filter.js */
-
-/*! ../utils/mount-component */
 
 /*! core-js/modules/esnext.map.reduce.js */
 
 /*! vue */
+
+/*! ../utils/mount-component */
 
 /*! vue */
 
@@ -126,6 +126,6 @@
 
 /*! ../utils */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
+/*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! ./Loading */

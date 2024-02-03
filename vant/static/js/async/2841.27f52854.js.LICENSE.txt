@@ -16,11 +16,11 @@
 
 /*! core-js/modules/es.array.iterator.js */
 
-/*! core-js/modules/es.string.split.js */
+/*! core-js/modules/es.symbol.description.js */
 
 /*! ../utils */
 
-/*! core-js/modules/es.symbol.description.js */
+/*! core-js/modules/es.string.split.js */
 
 /*! vue */
 

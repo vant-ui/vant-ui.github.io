@@ -68,15 +68,15 @@
 
 /*! core-js/modules/es.symbol.description.js */
 
-/*! core-js/modules/es.array.iterator.js */
+/*! vue */
 
 /*! ../loading */
 
 /*! ../utils */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
+/*! core-js/modules/es.array.iterator.js */
 
-/*! vue */
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ../../button */
 

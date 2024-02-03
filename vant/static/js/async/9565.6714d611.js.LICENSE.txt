@@ -62,8 +62,6 @@
 
 /*! ../utils */
 
-/*! core-js/modules/es.array.iterator.js */
-
 /*! ../../grid-item */
 
 /*! ../../image */
@@ -74,15 +72,17 @@
 
 /*! core-js/modules/es.array.reverse.js */
 
+/*! core-js/modules/es.array.iterator.js */
+
 /*! ../utils */
 
 /*! ../utils */
 
 /*! core-js/modules/es.regexp.exec.js */
 
-/*! core-js/modules/esnext.iterator.for-each.js */
-
 /*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! ../utils */
 

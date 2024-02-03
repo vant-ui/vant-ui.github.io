@@ -4,13 +4,13 @@
 
 /*! core-js/modules/es.string.split.js */
 
-/*! core-js/modules/es.array.iterator.js */
+/*! vue */
 
 /*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! ./Icon */
 
-/*! vue */
+/*! core-js/modules/es.array.iterator.js */
 
 /*! vue */
 

@@ -46,8 +46,6 @@
 
 /*! core-js/modules/es.array.includes.js */
 
-/*! ../utils */
-
 /*! ../config-provider/ConfigProvider */
 
 /*! core-js/modules/web.dom-collections.iterator.js */
@@ -67,6 +65,8 @@
 /*! core-js/modules/es.array.iterator.js */
 
 /*! core-js/modules/es.regexp.exec.js */
+
+/*! ../utils */
 
 /*! core-js/modules/es.symbol.description.js */
 

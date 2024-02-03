@@ -128,9 +128,9 @@
 
 /*! core-js/modules/esnext.map.includes.js */
 
-/*! ../../cell */
-
 /*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! ../../cell */
 
 /*! ../../image */
 

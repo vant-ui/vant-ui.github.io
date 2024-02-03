@@ -80,9 +80,9 @@
 
 /*! core-js/modules/esnext.async-iterator.map.js */
 
-/*! core-js/modules/esnext.map.key-of.js */
-
 /*! core-js/modules/web.dom-collections.iterator.js */
+
+/*! core-js/modules/esnext.map.key-of.js */
 
 /*! core-js/modules/esnext.iterator.for-each.js */
 

@@ -80,11 +80,11 @@
 
 /*! ../icon */
 
-/*! core-js/modules/web.dom-collections.iterator.js */
-
 /*! core-js/modules/esnext.iterator.for-each.js */
 
 /*! ../utils/mount-component */
+
+/*! core-js/modules/web.dom-collections.iterator.js */
 
 /*! core-js/modules/esnext.iterator.filter.js */
 

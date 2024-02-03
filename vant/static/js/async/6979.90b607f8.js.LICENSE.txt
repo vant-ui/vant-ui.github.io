@@ -202,9 +202,9 @@
 
 /*! core-js/modules/es.array.iterator.js */
 
-/*! ../loading */
-
 /*! @vant/use */
+
+/*! ../loading */
 
 /*! core-js/modules/es.string.replace.js */
 
