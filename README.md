@@ -1,6 +1,6 @@
 # vant-ui.github.io
 
-Static assets for https://vant-ui.github.io/.
+Static assets for https://vant.pro/.
 
 See the [gh-pages](https://github.com/vant-ui/vant-ui.github.io/tree/gh-pages) branch for all assets.
 
